@@ -1,0 +1,16 @@
+pyodbc
+flask
+jsonify
+pandasai
+redis
+pyarrow
+streamlit
+faiss-cpu
+sqlalchemy
+pyyaml
+langchain_community
+langchain
+langchain_core
+langchain_openai
+pymssql
+chromadb==0.3.29
