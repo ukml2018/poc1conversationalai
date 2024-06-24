@@ -1,6 +1,7 @@
 # Use a base image with Python installed
-FROM python:3.9-slim-buster
-
+#FROM python:3.9-slim-buster
+FROM python:3
+RUN  pip3 install --upgrade pip
 # Set the working directory inside the container
 WORKDIR /app
 
